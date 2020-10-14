@@ -1,0 +1,11 @@
+{
+     "html.format.contentUnformatted": "",
+     "editor.renameOnType": true,
+     "html.autoClosingTags": true,
+     "javascript.autoClosingTags": true,
+     "typescript.autoClosingTags": true,
+     "emmet.excludeLanguages": [
+     
+          "markdown"
+     ]
+}
